@@ -48,7 +48,7 @@ C'est ce qui va permettre aux composants de communiquer entre eux.
 ### Qu'est-ce-qu'un observable, et quel est son intérêt ?
 
 ```
-Ca permet + de réactivité dans l'appli via l
+Ca permet + de réactivité dans l'appli via des fonctions asynchrones et un systeme d'abonnement.
 ```
 
 ## Exercice 1
@@ -67,6 +67,8 @@ Ca permet + de réactivité dans l'appli via l
     - A chaque click, cacher ou afficher ListComponent
 
 ## Exercice 2
+
+ Pas eu le temps
 
 Cette partie de l'interrogation porte sur le projet PokeAdopt.
 
